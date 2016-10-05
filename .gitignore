@@ -1,0 +1,6 @@
+.bash_history
+.viminfo
+.Xauthority
+.ssh/authorized_keys
+.ssh/known_hosts
+.ssh/id_*
