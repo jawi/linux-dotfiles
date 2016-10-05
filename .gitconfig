@@ -1,3 +1,12 @@
 [user]
 	name = Jan Willem Janssen
 	email = j.w.janssen@lxtreme.nl
+[push]
+	default = simple
+[color]
+        ui = auto
+[alias]
+        st = status
+        up = pull --rebase
+	undo = reset HEAD~1
+        fuck = reset HEAD --hard
